@@ -10,6 +10,7 @@ The following posts, links, and assets are in reverse chronlogical order.  Some 
 
 | date | topics | source | description |
 | ---- | ------ | ------ | ----------- |
+| 2023-07-27 | LLMs | | [Quick Start with llama.cpp with Llama 2 and Macbook M2 Air](https://github.com/dennyglee/blog/blob/main/posts/2023-07-27.md) |
 | 2023-06-29 | LLMs, Spark | Databricks | [Introducing English as the New Programming Language for Apache Spark](https://www.databricks.com/blog/introducing-english-new-programming-language-apache-spark) | 
 | 2023-06-29 | Delta Lake | Databricks | [Announcing Delta Lake 3.0 with New Universal Format and Liquid Clustering](https://www.databricks.com/blog/announcing-delta-lake-30-new-universal-format-and-liquid-clustering) | 
 | 2023-06-26 | LLMs | site | [LLM Avalanche](https://www.avalanche.fm): Over 40 speakers and 900 people attended this LLM conference-within-a-conference to kick start Data + AI Summit 2023 | 
