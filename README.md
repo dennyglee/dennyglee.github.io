@@ -24,6 +24,7 @@ I am the (co-)author of the following posts, links, and assets are in reverse ch
 | 2023/06/29 | LLMs, Spark | Databricks | [Introducing English as the New Programming Language for Apache Spark](https://www.databricks.com/blog/introducing-english-new-programming-language-apache-spark) | 
 | 2023/06/29 | Delta Lake | Databricks | [Announcing Delta Lake 3.0 with New Universal Format and Liquid Clustering](https://www.databricks.com/blog/announcing-delta-lake-30-new-universal-format-and-liquid-clustering) | 
 | 2023/06/26 | LLMs | site | [LLM Avalanche](https://www.avalanche.fm): Over 40 speakers and 900 people attended this LLM conference-within-a-conference to kick start Data + AI Summit 2023 | 
+| 2023/03/20 | Spark, Delta | | [Why does altering a Delta Lake table schema not show up in the Spark DataFrame?](https://github.com/dennyglee/blog/blob/main/posts/2023-03-20.md) |
 | 2022/12/13 | Delta Lake | delta.io | [Building a more efficient data infrastructure for machine learning with Open Source using Delta Lake, Amazon SageMaker, and EMR](https://delta.io/blog/2022-12-13-sagemaker-emr-delta-lake/) |
 | 2022/11/10 | community | Integration Developer News | [How Developers Can Manage and Contribute to Successful Open-Source Projects](https://www.idevnews.com/stories/7546/How-Developers-Can-Manage-and-Contribute-to-Successful-Open-Source-Projects) | 
 | 2022/08/11 | Delta Lake | delta.io | [Apache Flink Source Connector for Delta Lake tables](https://delta.io/blog/2022-08-11-apache-flink-source-connector-for-delta-lake-tables/) |
@@ -156,3 +157,9 @@ I am the (co-)author of the following posts, links, and assets are in reverse ch
 | 2011/06/02 | big data | dennyglee.com | [The potential of Big Data](https://dennyglee.com/2011/06/02/the-potential-of-big-data/) | 
 | 2011/05/23 | cloud | dennyglee.com | [Netflix rocks–from great entertainment to showcasing how to develop for the Cloud](https://dennyglee.com/2011/05/23/netflix-rocksfrom-great-entertainment-to-showcasing-how-to-develop-for-the-cloud/) | 
 | 2011/05/17 | random | dennyglee.com | [At a Crossroads … from SSAS to BigData!](https://dennyglee.com/2011/05/17/at-a-crossroads-from-ssas-to-bigdata/) | 
+| 2009/05/12 | MS-SQL | Microsoft | [Disk Partition Alignment Best Practices for SQL Server](https://learn.microsoft.com/en-us/previous-versions/sql/sql-server-2008/dd758814(v=sql.100)?redirectedfrom=MSDN) | 
+| 2009/05/12 | MS-SQL | dennyglee.com | [Designing and Tuning for Performance your SSIS packages in the Enterprise (SQL Video Series)](https://dennyglee.com/2009/05/12/designing-and-tuning-for-performance-your-ssis-packages-in-the-enterprise-sql-video-series/) | 
+| 2008/11/05 | MS-SQL | Microsoft | [Reaching Compliance: SQL Server 2008 Compliance Guide](https://download.microsoft.com/download/b/e/6/be6f02af-882e-4039-b737-8741e0c1b342/ReachingCompliance.docx) | 
+| 2008/04/17 | MS-SQL | Microsoft | [Analysis Services Distinct Count Optimization](https://www.microsoft.com/en-us/download/details.aspx?id=891) | 
+| 2007/09/24 | Privacy | dennyglee.com | [Analyzing Data while Protecting Privacy – A Differential Privacy Case Study](https://dennyglee.com/2007/09/24/analyzing-data-while-protecting-privacy-a-case-study/) | 
+| 2006/03/02 | Research | dennyglee.com | [Early establishment of a pool of latently infected, resting CD4+ T cells during primary HIV-1 infection](https://dennyglee.com/2006/03/02/early-establishment-of-a-pool-of-latently-infected-resting-cd4-t-cells-during-primary-hiv-1-infection/) | 
