@@ -2,7 +2,15 @@
 
 Hi there, my name is [Denny Lee](https://www.linkedin.com/in/dennyglee/) and I am developer advocate at Databricks, long-time contributor to Apache Spark™ and MLflow, [Delta Lake](https://delta.io) maintainer, [LLM Avalanche](https://llmavalanche.com) creator, [Data Brew by Databricks](https://data-brew.io) caster. and long-time Seattle-ite.  In my past life, I was part of Microsoft Engineering for SQL Server, Cosmos DB, Bing, and part of the Project Isotope incubation team that brought Apache Hadoop into Microsoft.  
 
-> Here are my some of my [presentations]() and [videos](); I'm also (co-)author of the following [books](./(co-)author-list.md) including [Delta Lake: The Definitive Guide (Early Release)](https://www.oreilly.com/library/view/delta-lake-the/9781098151935/), [Learning Spark, 2nd Edition](https://www.oreilly.com/library/view/learning-spark-2nd/9781492050032/). If you're interested in posts in foodie and cycling posts, check out my [personal blog](https://dennyglee.com).
+<table width="90%" cellpadding=0 cellspacing=5 border=0>
+<tr>
+<td width="33%"><a href="https://llmavalanche.com" target="_blank"><img src="./assets/images/llm-avalanche-highlights-med.png"/></a></td>
+<td width="33%"><a href="https://www.linkedin.com/posts/dennyglee_sqlanalytics-deltaengine-deltalake-activity-6770787770781769728-7fNw?utm_source=share&utm_medium=member_desktop" target="_blank"><img src="./assets/images/SQL-Analytics-NYCTaxi-Demo.gif"/></a></td>
+<td width="33%"><a href="https://www.linkedin.com/posts/dennyglee_dataaisummit-activity-6735244316962365440-7v4O?utm_source=share&utm_medium=member_desktop" target="_blank"><img src="./assets/images/1605807378683.jpeg"/></a></td>
+</tr>
+</table>
+
+> Here are my some of my [presentations and videos](https://www.youtube.com/@dennyglee); I'm also (co-)author of the following [books](./(co-)author-list.md) including [Delta Lake: The Definitive Guide (Early Release)](https://www.oreilly.com/library/view/delta-lake-the/9781098151935/), [Learning Spark, 2nd Edition](https://www.oreilly.com/library/view/learning-spark-2nd/9781492050032/). If you're interested in posts in foodie and cycling posts, check out my [personal blog](https://dennyglee.com).
 
 I am the (co-)author of the following posts, links, and assets are in reverse chronlogical order.  Some posts were originally on my wordpress site but have been moved over to GitHub, blemishes and all, for posterity.
 
