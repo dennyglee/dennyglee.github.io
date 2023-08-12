@@ -1,6 +1,4 @@
-### dennyglee tech blog
-
-Hi there, my name is [Denny Lee](https://www.linkedin.com/in/dennyglee/) and I am developer advocate at Databricks, long-time contributor to Apache Spark™ and MLflow, [Delta Lake](https://delta.io) maintainer, [LLM Avalanche](https://llmavalanche.com) creator, [Data Brew by Databricks](https://data-brew.io) caster. and long-time Seattle-ite.  In my past life, I was part of Microsoft Engineering for SQL Server, Cosmos DB, Bing, and part of the Project Isotope incubation team that brought Apache Hadoop into Microsoft.  
+Hi there, my name is [Denny Lee](https://www.linkedin.com/in/dennyglee/) and I am developer advocate at Databricks, long-time contributor to Apache Spark™ and MLflow, [Delta Lake](https://delta.io) maintainer, [LLM Avalanche](https://llmavalanche.com) creator, [Data Brew by Databricks](https://data-brew.io) caster ([Spotify](https://open.spotify.com/show/0MqnE51Ym4HDx1oB7ztb4e), [Apple Podcasts](https://podcasts.apple.com/us/podcast/data-brew-by-databricks/id1538088814), [YouTube](https://www.youtube.com/@databrewbydatabricks/)). and long-time Seattle-ite.  In my past life, I was part of Microsoft Engineering for SQL Server, Cosmos DB, Bing, and part of the Project Isotope incubation team that brought Apache Hadoop into Microsoft.  
 
 <table width="90%" cellpadding=0 cellspacing=5 border=0>
 <tr>
@@ -10,7 +8,7 @@ Hi there, my name is [Denny Lee](https://www.linkedin.com/in/dennyglee/) and I a
 </tr>
 </table>
 
-> Here are my some of my [presentations and videos](https://www.youtube.com/@dennyglee); I'm also (co-)author of the following [books](./(co-)author-list.md) including [Delta Lake: The Definitive Guide (Early Release)](https://www.oreilly.com/library/view/delta-lake-the/9781098151935/), [Learning Spark, 2nd Edition](https://www.oreilly.com/library/view/learning-spark-2nd/9781492050032/). If you're interested in posts in foodie and cycling posts, check out my [personal blog](https://dennyglee.com).
+> Here are my some of my presentations and videos at [YT @dennyglee](https://www.youtube.com/@dennyglee); I'm also (co-)author of the following [books](./(co-)author-list.md) including [Delta Lake: The Definitive Guide (Early Release)](https://www.oreilly.com/library/view/delta-lake-the/9781098151935/), [Learning Spark, 2nd Edition](https://www.oreilly.com/library/view/learning-spark-2nd/9781492050032/). If you're interested in posts in foodie and cycling posts, check out my [personal blog](https://dennyglee.com).
 
 I am the (co-)author of the following posts, links, and assets are in reverse chronlogical order.  Some posts were originally on my wordpress site but have been moved over to GitHub, blemishes and all, for posterity.
 
@@ -88,6 +86,7 @@ I am the (co-)author of the following posts, links, and assets are in reverse ch
 | 2016/06/08 | Spark | Databricks | [Another Record-Setting Spark Summit](https://www.databricks.com/blog/2016/06/08/another-record-setting-spark-summit.html) | 
 | 2016/05/28 | Spark | dennyglee.com | [On-Time Flight Performance with GraphFrames for Apache Spark](https://dennyglee.com/2016/05/28/on-time-flight-performance-with-graphframes-for-apache-spark/) | 
 | 2016/03/16 | Spark, Graph | Databricks | [On-Time Flight Performance with GraphFrames for Apache Spark](https://www.databricks.com/blog/2016/03/16/on-time-flight-performance-with-graphframes-for-apache-spark.html) | 
+| 2016/02/11 | Spark, ML | InfoWorld | [Why you should use Spark for machine learning](https://www.infoworld.com/article/3031690/why-you-should-use-spark-for-machine-learning.html) |
 | 2016/02/11 | Spark | dennyglee.com | [Presentation: Jump Start into Apache® Spark™ and Databricks](https://dennyglee.com/2016/02/11/presentation-jump-start-into-apache-spark-and-databricks/) | 
 | 2016/02/02 | Spark | Databricks | [An Illustrated Guide to Advertising Analytics](https://www.databricks.com/blog/2016/02/02/an-illustrated-guide-to-advertising-analytics.html) | 
 | 2016/01/05 | Spark | dennyglee.com | [Data Exploration with Databricks](https://dennyglee.com/2016/01/05/data-exploration-with-databricks/) |
