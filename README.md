@@ -85,6 +85,9 @@ I am the (co-)author of the following posts, links, and assets are in reverse ch
 | 2016/06/22 | Spark | Databricks, KDNuggets | [Apache Spark Key Terms, Explained](https://www.databricks.com/blog/2016/06/22/apache-spark-key-terms-explained.html) | 
 | 2016/06/08 | Spark | Databricks | [Another Record-Setting Spark Summit](https://www.databricks.com/blog/2016/06/08/another-record-setting-spark-summit.html) | 
 | 2016/05/28 | Spark | dennyglee.com | [On-Time Flight Performance with GraphFrames for Apache Spark](https://dennyglee.com/2016/05/28/on-time-flight-performance-with-graphframes-for-apache-spark/) | 
+| 2016/05/24 | Spark, Genomics | Databricks | [Predicting Geographic Population using Genome Variants and K-Means](https://www.databricks.com/blog/2016/05/24/predicting-geographic-population-using-genome-variants-and-k-means.html) |
+| 2016/05/24 | Spark, Genomics | Databricks | [Parallelizing Genome Variant Analysis](https://www.databricks.com/blog/2016/05/24/parallelizing-genome-variant-analysis.html) |
+| 2016/05/24 | Spark, Genomics | Databricks | [Genome Sequencing in a Nutshell](https://www.databricks.com/blog/2016/05/24/genome-sequencing-in-a-nutshell.html) |
 | 2016/03/16 | Spark, Graph | Databricks | [On-Time Flight Performance with GraphFrames for Apache Spark](https://www.databricks.com/blog/2016/03/16/on-time-flight-performance-with-graphframes-for-apache-spark.html) | 
 | 2016/02/11 | Spark, ML | InfoWorld | [Why you should use Spark for machine learning](https://www.infoworld.com/article/3031690/why-you-should-use-spark-for-machine-learning.html) |
 | 2016/02/11 | Spark | dennyglee.com | [Presentation: Jump Start into Apache® Spark™ and Databricks](https://dennyglee.com/2016/02/11/presentation-jump-start-into-apache-spark-and-databricks/) | 
