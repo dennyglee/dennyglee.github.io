@@ -155,8 +155,8 @@ I am the (co-)author of the following posts, links, and assets are in reverse ch
 | 2012/01/15 | Hadoop, Azure | dennyglee.com | [Setup Azure Blob Store for Hadoop on Azure CTP](https://dennyglee.com/2012/01/15/setup-azure-blob-store-for-hadoop-on-azure-ctp/) | 
 | 2012/01/12 | Hadoop, Azure | dennyglee.com | [A funky way to do Hive and Hadoop … on Azure](https://dennyglee.com/2012/01/12/a-funky-way-to-do-hive-and-hadoop-on-azure/) |
 | 2011/12/15 | Hadoop, Azure | dennyglee.com | [An Azure Elephant Never Forgets…](https://dennyglee.com/2011/12/15/an-azure-elephant-never-forgets/) | 
-| 2011/10/01 | MS-SQL | Microsoft | [Analysis Services Performance Guide](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiF3sGQwfiAAxXUIDQIHcRhAPIQFnoECBsQAQ&url=https%3A%2F%2Fdownload.microsoft.com%2Fdownload%2F6%2F5%2F6%2F6567c845-fc8d-4d62-920f-c027a349c889%2Fssasperfguide2008r2.pdf&usg=AOvVaw2HzoiSY-JiJrGDMWEwv7ce&opi=89978449) |  
 | 2011/10/12 | Hadoop, SQL | dennyglee.com | [Revelations – rolling the hard six to SQL BI and Hadoop](https://dennyglee.com/2011/10/12/revelations-rolling-the-hard-six-to-sql-bi-and-hadoop/) | 
+| 2011/10/01 | MS-SQL | Microsoft | [SQL Server 2008 R2: Analysis Services Performance Guide](https://download.microsoft.com/download/6/5/6/6567c845-fc8d-4d62-920f-c027a349c889/ssasperfguide2008r2.pdf) |  
 | 2011/07/22 | Hadoop | dennyglee.com | [Hadoop: A movement, not just a technology](https://dennyglee.com/2011/07/22/hadoop-a-movement-not-just-a-technology/) | 
 | 2011/06/02 | big data | dennyglee.com | [The potential of Big Data](https://dennyglee.com/2011/06/02/the-potential-of-big-data/) | 
 | 2011/05/23 | cloud | dennyglee.com | [Netflix rocks–from great entertainment to showcasing how to develop for the Cloud](https://dennyglee.com/2011/05/23/netflix-rocksfrom-great-entertainment-to-showcasing-how-to-develop-for-the-cloud/) | 
