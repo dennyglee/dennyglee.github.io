@@ -18,6 +18,7 @@ I am the (co-)author of the following posts, links, and assets are in reverse ch
 
 | date | topics | source | description |
 | ---- | ------ | ------ | ----------- |
+| 2023/08/25 | Spark, Delta |  | [Why Structured Streaming and Delta Lake for Batch ETL?](https://dennyglee.com/2023/08/25/why-structured-streaming-and-delta-lake-for-batch-etl/) |
 | 2023/07/27 | LLMs | | [Quick Start with llama.cpp with Llama 2 and Macbook M2 Air](https://github.com/dennyglee/blog/blob/main/posts/2023-07-27.md) |
 | 2023/06/29 | LLMs, Spark | Databricks | [Introducing English as the New Programming Language for Apache Spark](https://www.databricks.com/blog/introducing-english-new-programming-language-apache-spark) | 
 | 2023/06/29 | Delta Lake | Databricks | [Announcing Delta Lake 3.0 with New Universal Format and Liquid Clustering](https://www.databricks.com/blog/announcing-delta-lake-30-new-universal-format-and-liquid-clustering) | 
