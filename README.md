@@ -8,7 +8,7 @@ Hi there, my name is [Denny Lee](https://www.linkedin.com/in/dennyglee/) and I a
 </tr>
 </table>
 
-> Here are my some of my presentations and videos at [YT @dennyglee](https://www.youtube.com/@dennyglee); I'm also (co-)author of the following [books](./(co-)author-list.md) including [Delta Lake: The Definitive Guide (Early Release)](https://www.oreilly.com/library/view/delta-lake-the/9781098151935/), [Learning Spark, 2nd Edition](https://www.oreilly.com/library/view/learning-spark-2nd/9781492050032/). If you're interested in posts in foodie and cycling posts, check out my [personal blog](https://dennyglee.com).
+> Here are my some of my presentations and videos at [YT @dennyglee](https://www.youtube.com/@dennyglee); I'm also (co-)author of the following [books](https://www.amazon.com/author/dennylee) including [Delta Lake: The Definitive Guide (Early Release)](https://www.oreilly.com/library/view/delta-lake-the/9781098151935/), [Learning Spark, 2nd Edition](https://www.oreilly.com/library/view/learning-spark-2nd/9781492050032/). If you're interested in posts in foodie and cycling posts, check out my [personal blog](https://dennyglee.com).
 
 I am the (co-)author of the following posts, links, and assets are in reverse chronlogical order.  Some posts were originally on my wordpress site but have been moved over to GitHub, blemishes and all, for posterity.
 
@@ -156,17 +156,17 @@ I am the (co-)author of the following posts, links, and assets are in reverse ch
 | 2012/01/12 | Hadoop, Azure | dennyglee.com | [A funky way to do Hive and Hadoop … on Azure](https://dennyglee.com/2012/01/12/a-funky-way-to-do-hive-and-hadoop-on-azure/) |
 | 2011/12/15 | Hadoop, Azure | dennyglee.com | [An Azure Elephant Never Forgets…](https://dennyglee.com/2011/12/15/an-azure-elephant-never-forgets/) | 
 | 2011/10/12 | Hadoop, SQL | dennyglee.com | [Revelations – rolling the hard six to SQL BI and Hadoop](https://dennyglee.com/2011/10/12/revelations-rolling-the-hard-six-to-sql-bi-and-hadoop/) | 
-| 2011/10/01 | MS-SQL | Microsoft | [SQL Server 2008 R2: Analysis Services Performance Guide](https://download.microsoft.com/download/6/5/6/6567c845-fc8d-4d62-920f-c027a349c889/ssasperfguide2008r2.pdf) |  
+| 2011/10/01 | MS-SQL | Microsoft | [SQL Server 2008 R2: Analysis Services Performance Guide](https://download.microsoft.com/download/6/5/6/6567c845-fc8d-4d62-920f-c027a349c889/ssasperfguide2008r2.pdf) ([backup](https://github.com/dennyglee/dennyglee.github.io/blob/main/assets/whitepapers/ssasperfguide2008r2.pdf))|  
 | 2011/07/22 | Hadoop | dennyglee.com | [Hadoop: A movement, not just a technology](https://dennyglee.com/2011/07/22/hadoop-a-movement-not-just-a-technology/) | 
 | 2011/06/02 | big data | dennyglee.com | [The potential of Big Data](https://dennyglee.com/2011/06/02/the-potential-of-big-data/) | 
 | 2011/05/23 | cloud | dennyglee.com | [Netflix rocks–from great entertainment to showcasing how to develop for the Cloud](https://dennyglee.com/2011/05/23/netflix-rocksfrom-great-entertainment-to-showcasing-how-to-develop-for-the-cloud/) | 
 | 2011/05/17 | random | dennyglee.com | [At a Crossroads … from SSAS to BigData!](https://dennyglee.com/2011/05/17/at-a-crossroads-from-ssas-to-bigdata/) | 
-| 2010/06/01 | MS-SQL | Microsoft | [Scale-Out Querying for Analysis Services with Read-Only Databases](https://download.microsoft.com/download/a/5/7/a575ad7c-4172-42d0-8d58-0698d6802f81/ssasreadonlydbs.docx) | 
+| 2010/06/01 | MS-SQL | Microsoft | [Scale-Out Querying for Analysis Services with Read-Only Databases](https://download.microsoft.com/download/a/5/7/a575ad7c-4172-42d0-8d58-0698d6802f81/ssasreadonlydbs.docx) ([backup](https://github.com/dennyglee/dennyglee.github.io/blob/main/assets/whitepapers/ssasreadonlydbs.docx)) | 
 | 2009/12/22 | Healthcare | book | [Transforming Health Care Through Information: Case Studies (Health Informatics)](https://www.amazon.com/Transforming-Health-Care-Through-Information/dp/1441902686/) |
 | 2009/05/12 | MS-SQL | Microsoft | [Disk Partition Alignment Best Practices for SQL Server](https://learn.microsoft.com/en-us/previous-versions/sql/sql-server-2008/dd758814(v=sql.100)?redirectedfrom=MSDN) | 
 | 2009/05/12 | MS-SQL | dennyglee.com | [Designing and Tuning for Performance your SSIS packages in the Enterprise (SQL Video Series)](https://dennyglee.com/2009/05/12/designing-and-tuning-for-performance-your-ssis-packages-in-the-enterprise-sql-video-series/) | 
-| 2008/11/05 | MS-SQL | Microsoft | [Reaching Compliance: SQL Server 2008 Compliance Guide](https://download.microsoft.com/download/b/e/6/be6f02af-882e-4039-b737-8741e0c1b342/ReachingCompliance.docx) | 
-| 2008/04/17 | MS-SQL | Microsoft | [Analysis Services Distinct Count Optimization](https://www.microsoft.com/en-us/download/details.aspx?id=891) | 
+| 2008/11/05 | MS-SQL | Microsoft | [Reaching Compliance: SQL Server 2008 Compliance Guide](https://download.microsoft.com/download/b/e/6/be6f02af-882e-4039-b737-8741e0c1b342/ReachingCompliance.docx) ([backup](https://github.com/dennyglee/dennyglee.github.io/blob/main/assets/whitepapers/ReachingCompliance.docx)) | 
+| 2008/04/17 | MS-SQL | Microsoft | [Analysis Services Distinct Count Optimization](https://www.microsoft.com/en-us/download/details.aspx?id=891) ([backup](https://github.com/dennyglee/dennyglee.github.io/blob/main/assets/whitepapers/SSASDistinctCountOpt.docx))| 
 | 2007/09/24 | Privacy | dennyglee.com | [Analyzing Data while Protecting Privacy – A Differential Privacy Case Study](https://dennyglee.com/2007/09/24/analyzing-data-while-protecting-privacy-a-case-study/) | 
 | 2006/03/02 | Research | paper (acknowledgement) | [Early establishment of a pool of latently infected, resting CD4+ T cells during primary HIV-1 infection](https://www.pnas.org/doi/full/10.1073/pnas.95.15.8869) | 
 | 2001/10/01 | MS-SQL | book | [Professional SQL Server 2000 Data Warehousing with Analysis Services](https://www.amazon.com/Professional-Server-Warehousing-Analysis-Services/dp/1861005407/ref=sr_1_1?crid=1RBBFEUWJ5R1O&keywords=978-1861005403&qid=1692988108&sprefix=978-1861005403%2Caps%2C135&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840) |
