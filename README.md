@@ -165,4 +165,4 @@ I am the (co-)author of the following posts, links, and assets are in reverse ch
 | 2008/11/05 | MS-SQL | Microsoft | [Reaching Compliance: SQL Server 2008 Compliance Guide](https://download.microsoft.com/download/b/e/6/be6f02af-882e-4039-b737-8741e0c1b342/ReachingCompliance.docx) | 
 | 2008/04/17 | MS-SQL | Microsoft | [Analysis Services Distinct Count Optimization](https://www.microsoft.com/en-us/download/details.aspx?id=891) | 
 | 2007/09/24 | Privacy | dennyglee.com | [Analyzing Data while Protecting Privacy – A Differential Privacy Case Study](https://dennyglee.com/2007/09/24/analyzing-data-while-protecting-privacy-a-case-study/) | 
-| 2006/03/02 | Research | dennyglee.com | [Early establishment of a pool of latently infected, resting CD4+ T cells during primary HIV-1 infection](https://dennyglee.com/2006/03/02/early-establishment-of-a-pool-of-latently-infected-resting-cd4-t-cells-during-primary-hiv-1-infection/) | 
+| 2006/03/02 | Research | paper (acknowledgement) | [Early establishment of a pool of latently infected, resting CD4+ T cells during primary HIV-1 infection](https://www.pnas.org/doi/full/10.1073/pnas.95.15.8869) | 
