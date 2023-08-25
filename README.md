@@ -161,6 +161,7 @@ I am the (co-)author of the following posts, links, and assets are in reverse ch
 | 2011/06/02 | big data | dennyglee.com | [The potential of Big Data](https://dennyglee.com/2011/06/02/the-potential-of-big-data/) | 
 | 2011/05/23 | cloud | dennyglee.com | [Netflix rocks–from great entertainment to showcasing how to develop for the Cloud](https://dennyglee.com/2011/05/23/netflix-rocksfrom-great-entertainment-to-showcasing-how-to-develop-for-the-cloud/) | 
 | 2011/05/17 | random | dennyglee.com | [At a Crossroads … from SSAS to BigData!](https://dennyglee.com/2011/05/17/at-a-crossroads-from-ssas-to-bigdata/) | 
+| 2010/06/01 | MS-SQL | Microsoft | [Scale-Out Querying for Analysis Services with Read-Only Databases](https://download.microsoft.com/download/a/5/7/a575ad7c-4172-42d0-8d58-0698d6802f81/ssasreadonlydbs.docx) | 
 | 2009/12/22 | Healthcare | book | [Transforming Health Care Through Information: Case Studies (Health Informatics)](https://www.amazon.com/Transforming-Health-Care-Through-Information/dp/1441902686/) |
 | 2009/05/12 | MS-SQL | Microsoft | [Disk Partition Alignment Best Practices for SQL Server](https://learn.microsoft.com/en-us/previous-versions/sql/sql-server-2008/dd758814(v=sql.100)?redirectedfrom=MSDN) | 
 | 2009/05/12 | MS-SQL | dennyglee.com | [Designing and Tuning for Performance your SSIS packages in the Enterprise (SQL Video Series)](https://dennyglee.com/2009/05/12/designing-and-tuning-for-performance-your-ssis-packages-in-the-enterprise-sql-video-series/) | 
