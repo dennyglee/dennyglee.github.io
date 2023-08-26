@@ -60,7 +60,6 @@ I am the (co-)author of the following posts, links, and assets are in reverse ch
 | 2019/05/02 | ML | Databricks | [Detecting Financial Fraud at Scale with Decision Trees and MLflow on Databricks](https://www.databricks.com/blog/2019/05/02/detecting-financial-fraud-at-scale-with-decision-trees-and-mlflow-on-databricks.html) | 
 | 2019/04/30 | ML, MLflow | Databricks | [Using Dynamic Time Warping and MLflow to Detect Sales Trends](https://www.databricks.com/blog/2019/04/30/using-dynamic-time-warping-and-mlflow-to-detect-sales-trends.html) | 
 | 2019/04/30 | ML, MLflow | Databricks | [Understanding Dynamic Time Warping](https://www.databricks.com/blog/2019/04/30/understanding-dynamic-time-warping.html) | 
-| 2019/01/06 | ML, DL |  | [Deep Learning Fundamentals Series](https://dennyglee.com/2019/01/06/deep-learning-fundamentals-series/) | 
 | 2018/11/13 | ML | Databricks | [Applying your Convolutional Neural Network: On-Demand Webinar and FAQ Now Available!](https://www.databricks.com/blog/2018/11/13/applying-your-convolutional-neural-network-on-demand-webinar-and-faq-now-available.html) | 
 | 2018/10/29 | Delta  | Databricks | [Simplifying Change Data Capture with Databricks Delta](https://www.databricks.com/blog/2018/10/29/simplifying-change-data-capture-with-databricks-delta.html) |  
 | 2018/10/22 | ML | Databricks | [Training your Neural Network: On-Demand Webinar and FAQ Now Available!](https://www.databricks.com/blog/2018/10/22/training-your-neural-network-on-demand-webinar-and-faq-now-available.html) | 
@@ -102,21 +101,16 @@ I am the (co-)author of the following posts, links, and assets are in reverse ch
 | 2015/06/04 | Spark, ML | Databricks | [Simplify Machine Learning on Apache Spark with Databricks](https://www.databricks.com/blog/2015/06/04/simplify-machine-learning-on-spark-with-databricks.html) | 
 | 2015/05/28 | Spark |  | [Notebook Gallery](https://dennyglee.com/2015/05/28/notebook-gallery/) |
 | 2015/03/25 | Spark |  | [Spark Ecosystem & Spark Streaming Fundamentals](https://dennyglee.com/2015/03/25/spark-ecosystem-spark-streaming-fundamentals/) | 
-| 2014/11/13 | Hive |  | [Quick Tip: Dropping Phantom Hive Databases (e.g. CDH5 Canary test dB)](https://dennyglee.com/2014/11/13/quick-tip-dropping-phantom-hive-databases-e-g-cdh5-canary-test-db/) | 
 | 2014/10/16 | Spark |  | [Spark atop Mesos on Google Cloud Platform querying Google Cloud Storage](https://dennyglee.com/2014/10/16/spark-atop-mesos-on-google-cloud-platform-querying-google-cloud-storage/) | 
-| 2014/05/24 | SSRS |  | [SQL Server Reporting Services Disaster Recovery Slides and Webinar](https://dennyglee.com/2014/05/25/sql-server-reporting-services-disaster-recovery-slides-and-webinar/) | 
 | 2014/04/25 | Spark |  | [Learnings from Running Spark at Twitter](https://dennyglee.com/2014/04/25/learnings-from-running-spark-at-twitter/) | 
 | 2014/03/04 | Spark |  | [Build your own CDH5 QuickStart VM with Spark on CentOS](https://dennyglee.com/2014/03/04/build-your-own-cdh5-quickstart-vm-with-spark-on-centos/) |
 | 2014/02/16 | Spark |  | [Seattle Spark Meetup Kicks Off with DataBricks](https://dennyglee.com/2014/02/16/seattle-spark-meetup-kicks-off-with-databricks/) |
-| 2014/02/11 | MySQL |  | [Quick Tips on Restoring a MySQL Full InnobackupEx Backup](https://dennyglee.com/2014/02/11/quick-tips-on-restoring-a-mysql-full-innobackupex-backup/) |
 | 2014/01/06 | HDFS, pig |  | [Quick Tip for Compressing Many Small Text Files within HDFS via Pig](https://dennyglee.com/2014/01/06/quick-tip-for-compressing-many-small-text-files-within-hdfs-via-pig/) |
 | 2013/12/27 | SQL, Hive |  | [Quick Tip for extracting SQL Server data to Hive](https://dennyglee.com/2013/12/27/quick-tip-for-extracting-sql-server-data-to-hive/) | 
 | 2013/11/25 | Hive, WinOS |  | [Hive and Windows Auth – the curse of the backslash](https://dennyglee.com/2013/11/25/hive-and-windows-auth-the-curse-of-the-backslash/) | 
 | 2013/11/02 | Hive |  | [Quick Tech Tip: SETting Cloudera Hue Beeswax to create a compressed Hive table](https://dennyglee.com/2013/11/02/quick-tech-tip-setting-cloudera-hue-beeswax-to-create-a-compressed-hive-table/) | 
-| 2013/10/17 | WinOS, Ubuntu |  | [Lazy Geek Hack: Mismatch of Ubuntu and Microsoft Keyboards](https://dennyglee.com/2013/10/17/lazy-geek-hack-mismatch-of-ubuntu-and-microsoft-keyboards/) | 
 | 2013/10/01 | |  | [Farewell Microsoft … Sometimes, you gotta roll the hard six!](https://dennyglee.com/2013/10/01/farewell-microsoft-sometimes-you-gotta-roll-the-hard-six/) | 
 | 2013/09/30 | SSAS |  | [Analysis Services Multidimensional: It is the Order of Things](https://dennyglee.com/2013/09/30/analysis-services-multidimensional-it-is-the-order-of-things/) | 
-| 2013/09/26 | SSRS |  | [SQL Server Reporting Services Disaster Recovery Case Study](https://dennyglee.com/2013/09/26/sql-server-reporting-services-disaster-recovery-case-study-3/) | 
 | 2013/08/19 | Spark |  | [Why all this interest in Spark?](https://dennyglee.com/2013/08/19/why-all-this-interest-in-spark/) | 
 | 2013/08/13 | SQL, SSAS, Hive |  | [Quick Tips and Q&A for SQL Server Analysis Services to Hive](https://dennyglee.com/2013/08/13/quick-tips-and-qa-for-sql-server-analysis-services-to-hive/) | 
 | 2013/07/16 | Spark |  | [Jump Start onto Spark 0.7.2 and Scala 2.9.3 on Mac OSX](https://dennyglee.com/2013/07/16/jump-start-onto-spark-0-7-2-and-scala-2-9-3-on-mac-osx/) | 
@@ -135,16 +129,12 @@ I am the (co-)author of the following posts, links, and assets are in reverse ch
 | 2012/12/03 | Hadoop, pig |  | [Getting your Pig to eat ASV blobs in Windows Azure HDInsight](https://dennyglee.com/2012/12/03/getting-your-pig-to-eat-asv-blobs-in-windows-azure-hdinsight/) | 
 | 2012/11/07 | Hive |  | [An easy way to test out Hive Dynamic Partition Insert on HDInsight Azure](https://dennyglee.com/2012/11/07/an-easy-way-to-test-out-hive-dynamic-partition-insert-on-hdinsight-azure/) | 
 | 2012/10/29 | Hadoop, S3 |  | [Oh where, oh where did my S3N go? (in Windows Azure HDInsight) Oh where, Oh where, can it be?!](https://dennyglee.com/2012/10/29/oh-where-oh-where-did-my-s3n-go-in-windows-azure-hdinsight-oh-where-oh-where-can-it-be/) |
-| 2012/10/11 | Hive, ODBC |  | [HiveODBC error message “..expected data length is 334…”](https://dennyglee.com/2012/10/11/hiveodbc-error-message-expected-data-length-is-334/) |
-| 2012/10/01 | SSRS |  | [Enterprise Reporting Services Jump Start Guide](https://dennyglee.com/2012/10/01/enterprise-reporting-services-jump-start-guide/) | 
 | 2012/09/26 | SSAS, Hive |  | [SQL Server Analysis Services to Hive](https://dennyglee.com/2012/09/26/sql-server-analysis-services-to-hive/) | 
 | 2012/09/06 | Hadoop |  | [Thursday TechTips: Hadoop 1.01 and Compression Codecs](https://dennyglee.com/2012/09/06/thursday-techtips-hadoop-1-01-and-compression-codecs/) | 
 | 2012/09/03 | random |  | [In the context of quantum entanglement and teleportation – Stargate may be more correct than Star Trek](https://dennyglee.com/2012/09/03/in-the-context-of-quantum-entanglement-and-teleportation-stargate-may-be-more-correct-than-star-trek/) | 
 | 2012/08/29 | Hbase |  | [A Quick HBase Primer from a SQLBI Perspective](https://dennyglee.com/2012/08/29/a-quick-hbase-primer-from-a-sqlbi-perspective/) | 
-| 2012/07/24 | Power View |  | [Power View Tip: Scatter Chart over Time on the X-Axis and Play Axis](https://dennyglee.com/2012/07/24/power-view-tip-scatter-chart-over-time-on-the-x-axis-and-play-axis/) | 
 | 2012/06/28 | SSAS | Microsoft | [Microsoft SQL Server Analysis Services Multidimensional Performance a n d Operations Guide](http://download.microsoft.com/download/0/F/B/0FBFAA46-2BFD-478F-8E56-7BF3C672DF9D/Microsoft%20SQL%20Server%20Analysis%20Services%20Multidimensional%20Performance%20and%20Operations%20Guide.pdf) | 
 | 2012/05/08 | Hadoop |  | [Installing Hadoop on OSX Lion (10.7)](https://dennyglee.com/2012/05/08/installing-hadoop-on-osx-lion-10-7/) | 
-| 2012/03/25 | MS-SQL |  | [How to Connect Report Builder 3.0 to a SQL Server 2012 PowerPivot workbook](https://dennyglee.com/2012/03/25/how-to-connect-report-builder-3-0-to-a-sql-server-2012-powerpivot-workbook/) | 
 | 2012/03/21 | Hadoop, s3 |  | [Connecting Hadoop on Azure to your Amazon S3 Blob storage](https://dennyglee.com/2012/03/21/connecting-hadoop-on-azure-to-your-amazon-s3-blob-storage/) |
 | 2012/03/01 | Hadoop, BI |  | [BI and Big Data–the best of both worlds!](https://dennyglee.com/2012/03/01/bi-and-big-datathe-best-of-both-worlds/) | 
 | 2012/02/17 | Hadoop, JS |  | [Hadoop JavaScript– Microsoft’s VB shift for Big Data](https://dennyglee.com/2012/02/17/hadoop-javascript-microsofts-vb-shift-for-big-data/) | 
