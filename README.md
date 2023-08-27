@@ -90,14 +90,15 @@ I am the (co-)author of the following posts, links, and assets are in reverse ch
 | 2016/05/24 | Spark, Genomics | Databricks | [Genome Sequencing in a Nutshell](https://www.databricks.com/blog/2016/05/24/genome-sequencing-in-a-nutshell.html) |
 | 2016/03/16 | Spark, Graph | Databricks | [On-Time Flight Performance with GraphFrames for Apache Spark](https://www.databricks.com/blog/2016/03/16/on-time-flight-performance-with-graphframes-for-apache-spark.html) | 
 | 2016/02/11 | Spark, ML | InfoWorld | [Why you should use Spark for machine learning](https://www.infoworld.com/article/3031690/why-you-should-use-spark-for-machine-learning.html) |
-| 2016/02/11 | Spark |  | [Presentation: Jump Start into Apache® Spark™ and Databricks](https://dennyglee.com/2016/02/11/presentation-jump-start-into-apache-spark-and-databricks/) | 
+| 2016/02/11 | Spark |  | [Presentation: Jump Start into Apache® Spark™ 2.0](https://github.com/dennyglee/databricks/blob/master/presentations/Jump%20Start%20into%20Apache%20Spark%202.0.pdf) | 
 | 2016/02/02 | Spark | Databricks | [An Illustrated Guide to Advertising Analytics](https://www.databricks.com/blog/2016/02/02/an-illustrated-guide-to-advertising-analytics.html) | 
-| 2016/01/05 | Spark |  | [Data Exploration with Databricks](https://dennyglee.com/2016/01/05/data-exploration-with-databricks/) |
 | 2015/12/19 | community | Databricks | [Databricks launches Meetup-in-a-box for Apache Spark Meetup Organizers](https://www.databricks.com/blog/2015/11/19/databricks-launches-meetup-in-a-box-for-apache-spark-meetup-organizers.html) | 
 | 2015/11/09 | Spark | insideBIGDATA | [Apache Spark is the Smartphone of Big Data](https://insidebigdata.com/2015/11/09/apache-spark-is-the-smartphone-of-big-data/) | 
 | 2015/09/24 | Spark | Databricks | [Spark Survey 2015 Results are now available](https://www.databricks.com/blog/2015/09/24/spark-survey-2015-results-are-now-available.html) | 
+| 2015/08/31 | Spark | Databricks | [Data Exploration with Databricks](https://vimeo.com/137874931) | 
 | 2015/07/22 | ML |  | [Interested in career in Data Sciences? Read Freakonomics first!](https://dennyglee.com/2015/07/22/interested-in-career-in-data-sciences-read-freakonomics-first/) | 
 | 2015/07/11 | DE |  | [Data Engineering Reading Materials: Spark, Machine Learning, and Distributed Systems Resources](https://dennyglee.com/2015/07/11/data-engineering-reading-materials-spark-machine-learning-and-distributed-systems-resources/) | 
+| 2015/06/09 | Spark | Databricks | [Introduction to Databricks](https://vimeo.com/databricks/introduction) | 
 | 2015/06/04 | Spark, ML | Databricks | [Simplify Machine Learning on Apache Spark with Databricks](https://www.databricks.com/blog/2015/06/04/simplify-machine-learning-on-spark-with-databricks.html) | 
 | 2015/05/28 | Spark |  | [Notebook Gallery](https://dennyglee.com/2015/05/28/notebook-gallery/) |
 | 2015/03/25 | Spark |  | [Spark Ecosystem & Spark Streaming Fundamentals](https://dennyglee.com/2015/03/25/spark-ecosystem-spark-streaming-fundamentals/) | 
