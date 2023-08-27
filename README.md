@@ -78,8 +78,8 @@ I am the (co-)author of the following posts, links, and assets are in reverse ch
 | 2018/07/02 | Spark, Streaming | Databricks | [Build a Mobile Gaming Events Data Pipeline with Databricks Delta](https://www.databricks.com/blog/2018/07/02/build-a-mobile-gaming-events-data-pipeline-with-databricks-delta.html) | 
 | 2018/06/27 | R | Databricks | [Announcing RStudio and Databricks Integration](https://www.databricks.com/blog/2018/06/27/rstudio-integration.html) | 
 | 2017/11/07 | CosmosDB | github | [Lambda Architecture with Azure Cosmos DB and HDInsight (Apache Spark)](https://github.com/dennyglee/azure-cosmosdb-spark/tree/master/samples/lambda) |
-| 2017/08/04 | Spark |  | [Introduction to Apache Spark 2.0](https://dennyglee.com/2017/08/04/introduction-to-apache-spark-2-0/) | 
-| 2017/02/18 | Spark |  | [Jump Start into Python and Apache Spark with Learning PySpark](https://dennyglee.com/2017/02/18/learning-pyspark/   ) | 
+| 2017/07/01 | Spark | O'Reilly | [Introduction to Apache Spark 2.0](https://www.oreilly.com/library/view/introduction-to-apache/9781491991237/) | 
+| 2017/02/18 | Spark | book | [Learning PySpark: Build data-intensive applications locally and deploy at scale using the combined powers of Python and Spark 2.0](https://www.amazon.com/Learning-PySpark-Tomasz-Drabas-ebook/dp/B01KOG6SXM?ref_=ast_author_dp) | 
 | 2016/12/02 | Spark | github | [How Apache Spark performs a fast count using the parquet metadata](https://github.com/dennyglee/databricks/blob/master/misc/parquet-count-metadata-explanation.md) | 
 | 2016/06/30 | Spark | Databricks | [Introducing Getting Started with Apache Spark on Databricks](https://www.databricks.com/blog/2016/06/30/introducing-getting-started-with-apache-spark-on-databricks.html) | 
 | 2016/06/22 | Spark | Databricks, KDNuggets | [Apache Spark Key Terms, Explained](https://www.databricks.com/blog/2016/06/22/apache-spark-key-terms-explained.html) | 
