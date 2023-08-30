@@ -96,32 +96,13 @@ I am the (co-)author of the following posts, links, and assets are in reverse ch
 | 2015/11/09 | Spark | insideBIGDATA | [Apache Spark is the Smartphone of Big Data](https://insidebigdata.com/2015/11/09/apache-spark-is-the-smartphone-of-big-data/) | 
 | 2015/09/24 | Spark | Databricks | [Spark Survey 2015 Results are now available](https://www.databricks.com/blog/2015/09/24/spark-survey-2015-results-are-now-available.html) | 
 | 2015/08/31 | Spark | Databricks | [Data Exploration with Databricks](https://vimeo.com/137874931) | 
-| 2015/07/22 | ML |  | [Interested in career in Data Sciences? Read Freakonomics first!](https://dennyglee.com/2015/07/22/interested-in-career-in-data-sciences-read-freakonomics-first/) | 
-| 2015/07/11 | DE |  | [Data Engineering Reading Materials: Spark, Machine Learning, and Distributed Systems Resources](https://dennyglee.com/2015/07/11/data-engineering-reading-materials-spark-machine-learning-and-distributed-systems-resources/) | 
 | 2015/06/09 | Spark | Databricks | [Introduction to Databricks](https://vimeo.com/databricks/introduction) | 
 | 2015/06/04 | Spark, ML | Databricks | [Simplify Machine Learning on Apache Spark with Databricks](https://www.databricks.com/blog/2015/06/04/simplify-machine-learning-on-spark-with-databricks.html) | 
-| 2015/05/28 | Spark |  | [Notebook Gallery](https://dennyglee.com/2015/05/28/notebook-gallery/) |
-| 2015/03/25 | Spark |  | [Spark Ecosystem & Spark Streaming Fundamentals](https://dennyglee.com/2015/03/25/spark-ecosystem-spark-streaming-fundamentals/) | 
-| 2014/10/16 | Spark |  | [Spark atop Mesos on Google Cloud Platform querying Google Cloud Storage](https://dennyglee.com/2014/10/16/spark-atop-mesos-on-google-cloud-platform-querying-google-cloud-storage/) | 
-| 2014/04/25 | Spark |  | [Learnings from Running Spark at Twitter](https://dennyglee.com/2014/04/25/learnings-from-running-spark-at-twitter/) | 
-| 2014/03/04 | Spark |  | [Build your own CDH5 QuickStart VM with Spark on CentOS](https://dennyglee.com/2014/03/04/build-your-own-cdh5-quickstart-vm-with-spark-on-centos/) |
-| 2014/02/16 | Spark |  | [Seattle Spark Meetup Kicks Off with DataBricks](https://dennyglee.com/2014/02/16/seattle-spark-meetup-kicks-off-with-databricks/) |
+| 2014/02/16 | Spark |  | [Seattle Spark Meetup Kicks Off with Databricks](https://dennyglee.com/2014/02/16/seattle-spark-meetup-kicks-off-with-databricks/) |
 | 2014/01/06 | HDFS, pig |  | [Quick Tip for Compressing Many Small Text Files within HDFS via Pig](https://dennyglee.com/2014/01/06/quick-tip-for-compressing-many-small-text-files-within-hdfs-via-pig/) |
-| 2013/12/27 | SQL, Hive |  | [Quick Tip for extracting SQL Server data to Hive](https://dennyglee.com/2013/12/27/quick-tip-for-extracting-sql-server-data-to-hive/) | 
-| 2013/11/25 | Hive, WinOS |  | [Hive and Windows Auth – the curse of the backslash](https://dennyglee.com/2013/11/25/hive-and-windows-auth-the-curse-of-the-backslash/) | 
-| 2013/11/02 | Hive |  | [Quick Tech Tip: SETting Cloudera Hue Beeswax to create a compressed Hive table](https://dennyglee.com/2013/11/02/quick-tech-tip-setting-cloudera-hue-beeswax-to-create-a-compressed-hive-table/) | 
-| 2013/10/01 | |  | [Farewell Microsoft … Sometimes, you gotta roll the hard six!](https://dennyglee.com/2013/10/01/farewell-microsoft-sometimes-you-gotta-roll-the-hard-six/) | 
 | 2013/09/30 | SSAS |  | [Analysis Services Multidimensional: It is the Order of Things](https://dennyglee.com/2013/09/30/analysis-services-multidimensional-it-is-the-order-of-things/) | 
-| 2013/08/19 | Spark |  | [Why all this interest in Spark?](https://dennyglee.com/2013/08/19/why-all-this-interest-in-spark/) | 
-| 2013/08/13 | SQL, SSAS, Hive |  | [Quick Tips and Q&A for SQL Server Analysis Services to Hive](https://dennyglee.com/2013/08/13/quick-tips-and-qa-for-sql-server-analysis-services-to-hive/) | 
-| 2013/07/16 | Spark |  | [Jump Start onto Spark 0.7.2 and Scala 2.9.3 on Mac OSX](https://dennyglee.com/2013/07/16/jump-start-onto-spark-0-7-2-and-scala-2-9-3-on-mac-osx/) | 
-| 2013/07/11 | Big Data, Healthcare |  | [Project “ChâteauKebob”: Big Data to BI End-to-End Healthcare Auditing Compliance](https://dennyglee.com/2013/07/11/project-chateaukebob/) | 
-| 2013/06/05 | Kafka |  | [Jump Start on Apache Kafka 0.8 with Scala 2.9.2 on Mac OSX](https://dennyglee.com/2013/06/05/jump-start-on-apache-kafka-0-8-with-scala-2-9-2-on-mac-osx/) | 
 | 2013/05/14 | random |  | [In the context of quantum entanglement and time travel – Stargate may be more correct than Star Trek](https://dennyglee.com/2013/05/14/in-the-context-of-quantum-entanglement-and-time-travel-stargate-may-be-more-correct-than-star-trek/) | 
-| 2013/05/09 | Hive |  | [Compile and add Hive UDF via ADD JAR in HDInsight on Azure](https://dennyglee.com/2013/05/09/compile-and-add-hive-udf-via-add-jar-in-hdinsight-on-azure/) | 
-| 2013/05/06 | Hive |  | [Add Built-In Hive UDFs on HDInsight Azure](https://dennyglee.com/2013/05/06/add-built-in-hive-udfs-on-hdinsight-azure/) | 
 | 2013/04/26 | Hive |  | [Optimizing Joins running on HDInsight Hive on Azure at GFS](https://dennyglee.com/2013/04/26/optimizing-joins-running-on-hdinsight-hive-on-azure-at-gfs/) | 
-| 2013/03/25 | Hadoop |  | [Updated HDInsight on Azure ASV paths for multiple storage accounts](https://dennyglee.com/2013/03/25/updated-hdinsight-on-azure-asv-paths-for-multiple-storage-accounts/) | 
 | 2013/03/18 | blob |  | [Why use Blob Storage with HDInsight on Azure](https://dennyglee.com/2013/03/18/why-use-blob-storage-with-hdinsight-on-azure/) | 
 | 2013/03/12 | Avro, Hadoop |  | [Using Avro with HDInsight on Azure at 343 Industries](https://dennyglee.com/2013/03/12/using-avro-with-hdinsight-on-azure-at-343-industries/) | 
 | 2013/03/06 | Hadoop, protobuf |  | [Getting Hadoop and protobufs up and running with Elephant Bird on Mac OSX Mountain Lion](https://dennyglee.com/2013/03/06/getting-hadoop-and-protobufs-up-and-running-with-elephant-bird-on-mac-osx-mountain-lion/) | 
@@ -130,11 +111,11 @@ I am the (co-)author of the following posts, links, and assets are in reverse ch
 | 2012/12/03 | Hadoop, pig |  | [Getting your Pig to eat ASV blobs in Windows Azure HDInsight](https://dennyglee.com/2012/12/03/getting-your-pig-to-eat-asv-blobs-in-windows-azure-hdinsight/) | 
 | 2012/11/07 | Hive |  | [An easy way to test out Hive Dynamic Partition Insert on HDInsight Azure](https://dennyglee.com/2012/11/07/an-easy-way-to-test-out-hive-dynamic-partition-insert-on-hdinsight-azure/) | 
 | 2012/10/29 | Hadoop, S3 |  | [Oh where, oh where did my S3N go? (in Windows Azure HDInsight) Oh where, Oh where, can it be?!](https://dennyglee.com/2012/10/29/oh-where-oh-where-did-my-s3n-go-in-windows-azure-hdinsight-oh-where-oh-where-can-it-be/) |
-| 2012/09/26 | SSAS, Hive |  | [SQL Server Analysis Services to Hive](https://dennyglee.com/2012/09/26/sql-server-analysis-services-to-hive/) | 
+| 2012/09/26 | SSAS, Hive | Microsoft | [SQL Server Analysis Services to Hive](https://download.microsoft.com/download/d/2/0/d20e1c5f-72ea-4505-9f26-fef9550efd44/molap2hive_klout.docx) ([backup](https://github.com/dennyglee/dennyglee.github.io/blob/main/assets/whitepapers/molap2hive_klout.docx)) | 
 | 2012/09/06 | Hadoop |  | [Thursday TechTips: Hadoop 1.01 and Compression Codecs](https://dennyglee.com/2012/09/06/thursday-techtips-hadoop-1-01-and-compression-codecs/) | 
 | 2012/09/03 | random |  | [In the context of quantum entanglement and teleportation – Stargate may be more correct than Star Trek](https://dennyglee.com/2012/09/03/in-the-context-of-quantum-entanglement-and-teleportation-stargate-may-be-more-correct-than-star-trek/) | 
 | 2012/08/29 | Hbase |  | [A Quick HBase Primer from a SQLBI Perspective](https://dennyglee.com/2012/08/29/a-quick-hbase-primer-from-a-sqlbi-perspective/) | 
-| 2012/06/28 | SSAS | Microsoft | [Microsoft SQL Server Analysis Services Multidimensional Performance a n d Operations Guide](http://download.microsoft.com/download/0/F/B/0FBFAA46-2BFD-478F-8E56-7BF3C672DF9D/Microsoft%20SQL%20Server%20Analysis%20Services%20Multidimensional%20Performance%20and%20Operations%20Guide.pdf) | 
+| 2012/06/28 | SSAS | Microsoft | [Microsoft SQL Server Analysis Services Multidimensional Performance and Operations Guide](http://download.microsoft.com/download/0/F/B/0FBFAA46-2BFD-478F-8E56-7BF3C672DF9D/Microsoft%20SQL%20Server%20Analysis%20Services%20Multidimensional%20Performance%20and%20Operations%20Guide.pdf) | 
 | 2012/05/08 | Hadoop |  | [Installing Hadoop on OSX Lion (10.7)](https://dennyglee.com/2012/05/08/installing-hadoop-on-osx-lion-10-7/) | 
 | 2012/03/21 | Hadoop, s3 |  | [Connecting Hadoop on Azure to your Amazon S3 Blob storage](https://dennyglee.com/2012/03/21/connecting-hadoop-on-azure-to-your-amazon-s3-blob-storage/) |
 | 2012/03/01 | Hadoop, BI |  | [BI and Big Data–the best of both worlds!](https://dennyglee.com/2012/03/01/bi-and-big-datathe-best-of-both-worlds/) | 
