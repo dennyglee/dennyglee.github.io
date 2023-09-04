@@ -18,6 +18,7 @@ I am the (co-)author of the following posts, links, and assets are in reverse ch
 
 | date | topics | source | description |
 | ---- | ------ | ------ | ----------- |
+| 2023/08/31 | Delta | | [What is the Delta Lake Transaction Log?](https://dennyglee.com/2023/08/31/what-is-the-delta-lake-transaction-log/) | 
 | 2023/08/25 | Spark, Delta |  | [Why Structured Streaming and Delta Lake for Batch ETL?](https://dennyglee.com/2023/08/25/why-structured-streaming-and-delta-lake-for-batch-etl/) |
 | 2023/07/27 | LLMs | | [Quick Start with llama.cpp with Llama 2 and Macbook M2 Air](https://github.com/dennyglee/blog/blob/main/posts/2023-07-27.md) |
 | 2023/06/29 | LLMs, Spark | Databricks | [Introducing English as the New Programming Language for Apache Spark](https://www.databricks.com/blog/introducing-english-new-programming-language-apache-spark) | 
@@ -72,7 +73,7 @@ I am the (co-)author of the following posts, links, and assets are in reverse ch
 | 2018/09/09 | ML | Databricks | [Loan Risk Analysis with XGBoost and Databricks Runtime for Machine Learning](https://www.databricks.com/blog/2018/08/09/loan-risk-analysis-with-xgboost-and-databricks-runtime-for-machine-learning.html) | 
 | 2018/08/08 | MLflow | Databricks | [MLflow 0.4.2 Released](https://www.databricks.com/blog/2018/08/08/mlflow-0-4-2-released.html) | 
 | 2018/07/19 | Spark | Databricks | [Simplify Advertising Analytics Click Prediction with Databricks Unified Analytics Platform](https://www.databricks.com/blog/2018/07/19/simplify-advertising-analytics-click-prediction-with-databricks-unified-analytics-platform.html) | 
-| 2018/07/19 | Spark, Delta | Databricks | [Simplify Streaming Stock Data Analysis Using Databricks Delta])(https://www.databricks.com/blog/2018/07/19/simplify-streaming-stock-data-analysis-using-databricks-delta.html) | 
+| 2018/07/19 | Spark, Delta | Databricks | [Simplify Streaming Stock Data Analysis Using Databricks Delta](https://www.databricks.com/blog/2018/07/19/simplify-streaming-stock-data-analysis-using-databricks-delta.html) | 
 | 2018/07/19 | Streaming, Spark, Delta | Databricks | [Make Your Oil and Gas Assets Smarter by Implementing Predictive Maintenance with Databricks](https://www.databricks.com/blog/2018/07/19/make-your-oil-and-gas-assets-smarter-by-implementing-predictive-maintenance-with-databricks.html) |
 | 2018/07/09 | Spark | Databricks | [Analyze Games from European Soccer Leagues with Apache Spark and Databricks](https://www.databricks.com/blog/2018/07/09/analyze-games-from-european-soccer-leagues-with-apache-spark-and-databricks.html) |  
 | 2018/07/02 | Spark, Streaming | Databricks | [Build a Mobile Gaming Events Data Pipeline with Databricks Delta](https://www.databricks.com/blog/2018/07/02/build-a-mobile-gaming-events-data-pipeline-with-databricks-delta.html) | 
@@ -98,7 +99,6 @@ I am the (co-)author of the following posts, links, and assets are in reverse ch
 | 2015/08/31 | Spark | Databricks | [Data Exploration with Databricks](https://vimeo.com/137874931) | 
 | 2015/06/09 | Spark | Databricks | [Introduction to Databricks](https://vimeo.com/databricks/introduction) | 
 | 2015/06/04 | Spark, ML | Databricks | [Simplify Machine Learning on Apache Spark with Databricks](https://www.databricks.com/blog/2015/06/04/simplify-machine-learning-on-spark-with-databricks.html) | 
-| 2014/02/16 | Spark |  | [Seattle Spark Meetup Kicks Off with Databricks](https://dennyglee.com/2014/02/16/seattle-spark-meetup-kicks-off-with-databricks/) |
 | 2014/01/06 | HDFS, pig |  | [Quick Tip for Compressing Many Small Text Files within HDFS via Pig](https://dennyglee.com/2014/01/06/quick-tip-for-compressing-many-small-text-files-within-hdfs-via-pig/) |
 | 2013/09/30 | SSAS |  | [Analysis Services Multidimensional: It is the Order of Things](https://dennyglee.com/2013/09/30/analysis-services-multidimensional-it-is-the-order-of-things/) | 
 | 2013/05/14 | random |  | [In the context of quantum entanglement and time travel – Stargate may be more correct than Star Trek](https://dennyglee.com/2013/05/14/in-the-context-of-quantum-entanglement-and-time-travel-stargate-may-be-more-correct-than-star-trek/) | 
@@ -106,14 +106,9 @@ I am the (co-)author of the following posts, links, and assets are in reverse ch
 | 2013/03/18 | blob |  | [Why use Blob Storage with HDInsight on Azure](https://dennyglee.com/2013/03/18/why-use-blob-storage-with-hdinsight-on-azure/) | 
 | 2013/03/12 | Avro, Hadoop |  | [Using Avro with HDInsight on Azure at 343 Industries](https://dennyglee.com/2013/03/12/using-avro-with-hdinsight-on-azure-at-343-industries/) | 
 | 2013/02/04 | Spark |  | [Installing Spark 0.6.1 Standalone on OSX Mountain Lion (10.8)](https://dennyglee.com/2013/02/04/installing-spark-0-6-1-standalone-on-osx-mountain-lion-10-8/) |
-| 2012/12/08 | Hadoop |  | [Yahoo! 24TB SSAS Big Data Case Study + Slides](https://dennyglee.com/2012/12/08/yahoo-24tb-ssas-big-data-case-study-slides/) |  
 | 2012/12/03 | Hadoop, pig |  | [Getting your Pig to eat ASV blobs in Windows Azure HDInsight](https://dennyglee.com/2012/12/03/getting-your-pig-to-eat-asv-blobs-in-windows-azure-hdinsight/) | 
-| 2012/11/07 | Hive |  | [An easy way to test out Hive Dynamic Partition Insert on HDInsight Azure](https://dennyglee.com/2012/11/07/an-easy-way-to-test-out-hive-dynamic-partition-insert-on-hdinsight-azure/) | 
-| 2012/10/29 | Hadoop, S3 |  | [Oh where, oh where did my S3N go? (in Windows Azure HDInsight) Oh where, Oh where, can it be?!](https://dennyglee.com/2012/10/29/oh-where-oh-where-did-my-s3n-go-in-windows-azure-hdinsight-oh-where-oh-where-can-it-be/) |
 | 2012/09/26 | SSAS, Hive | Microsoft | [SQL Server Analysis Services to Hive](https://download.microsoft.com/download/d/2/0/d20e1c5f-72ea-4505-9f26-fef9550efd44/molap2hive_klout.docx) ([backup](https://github.com/dennyglee/dennyglee.github.io/blob/main/assets/whitepapers/molap2hive_klout.docx)) | 
-| 2012/09/06 | Hadoop |  | [Thursday TechTips: Hadoop 1.01 and Compression Codecs](https://dennyglee.com/2012/09/06/thursday-techtips-hadoop-1-01-and-compression-codecs/) | 
 | 2012/09/03 | random |  | [In the context of quantum entanglement and teleportation – Stargate may be more correct than Star Trek](https://dennyglee.com/2012/09/03/in-the-context-of-quantum-entanglement-and-teleportation-stargate-may-be-more-correct-than-star-trek/) | 
-| 2012/08/29 | Hbase |  | [A Quick HBase Primer from a SQLBI Perspective](https://dennyglee.com/2012/08/29/a-quick-hbase-primer-from-a-sqlbi-perspective/) | 
 | 2012/06/28 | SSAS | Microsoft | [Microsoft SQL Server Analysis Services Multidimensional Performance and Operations Guide](http://download.microsoft.com/download/0/F/B/0FBFAA46-2BFD-478F-8E56-7BF3C672DF9D/Microsoft%20SQL%20Server%20Analysis%20Services%20Multidimensional%20Performance%20and%20Operations%20Guide.pdf) | 
 | 2012/05/08 | Hadoop |  | [Installing Hadoop on OSX Lion (10.7)](https://dennyglee.com/2012/05/08/installing-hadoop-on-osx-lion-10-7/) | 
 | 2012/03/21 | Hadoop, s3 |  | [Connecting Hadoop on Azure to your Amazon S3 Blob storage](https://dennyglee.com/2012/03/21/connecting-hadoop-on-azure-to-your-amazon-s3-blob-storage/) |
