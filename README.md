@@ -105,7 +105,6 @@ I am the (co-)author of the following posts, links, and assets are in reverse ch
 | 2013/04/26 | Hive |  | [Optimizing Joins running on HDInsight Hive on Azure at GFS](https://dennyglee.com/2013/04/26/optimizing-joins-running-on-hdinsight-hive-on-azure-at-gfs/) | 
 | 2013/03/18 | blob |  | [Why use Blob Storage with HDInsight on Azure](https://dennyglee.com/2013/03/18/why-use-blob-storage-with-hdinsight-on-azure/) | 
 | 2013/03/12 | Avro, Hadoop |  | [Using Avro with HDInsight on Azure at 343 Industries](https://dennyglee.com/2013/03/12/using-avro-with-hdinsight-on-azure-at-343-industries/) | 
-| 2013/03/06 | Hadoop, protobuf |  | [Getting Hadoop and protobufs up and running with Elephant Bird on Mac OSX Mountain Lion](https://dennyglee.com/2013/03/06/getting-hadoop-and-protobufs-up-and-running-with-elephant-bird-on-mac-osx-mountain-lion/) | 
 | 2013/02/04 | Spark |  | [Installing Spark 0.6.1 Standalone on OSX Mountain Lion (10.8)](https://dennyglee.com/2013/02/04/installing-spark-0-6-1-standalone-on-osx-mountain-lion-10-8/) |
 | 2012/12/08 | Hadoop |  | [Yahoo! 24TB SSAS Big Data Case Study + Slides](https://dennyglee.com/2012/12/08/yahoo-24tb-ssas-big-data-case-study-slides/) |  
 | 2012/12/03 | Hadoop, pig |  | [Getting your Pig to eat ASV blobs in Windows Azure HDInsight](https://dennyglee.com/2012/12/03/getting-your-pig-to-eat-asv-blobs-in-windows-azure-hdinsight/) | 
