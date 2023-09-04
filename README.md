@@ -111,7 +111,6 @@ I am the (co-)author of the following posts, links, and assets are in reverse ch
 | 2012/09/03 | random |  | [In the context of quantum entanglement and teleportation – Stargate may be more correct than Star Trek](https://dennyglee.com/2012/09/03/in-the-context-of-quantum-entanglement-and-teleportation-stargate-may-be-more-correct-than-star-trek/) | 
 | 2012/06/28 | SSAS | Microsoft | [Microsoft SQL Server Analysis Services Multidimensional Performance and Operations Guide](http://download.microsoft.com/download/0/F/B/0FBFAA46-2BFD-478F-8E56-7BF3C672DF9D/Microsoft%20SQL%20Server%20Analysis%20Services%20Multidimensional%20Performance%20and%20Operations%20Guide.pdf) | 
 | 2012/05/08 | Hadoop |  | [Installing Hadoop on OSX Lion (10.7)](https://dennyglee.com/2012/05/08/installing-hadoop-on-osx-lion-10-7/) | 
-| 2012/03/21 | Hadoop, s3 |  | [Connecting Hadoop on Azure to your Amazon S3 Blob storage](https://dennyglee.com/2012/03/21/connecting-hadoop-on-azure-to-your-amazon-s3-blob-storage/) |
 | 2012/03/01 | Hadoop, BI |  | [BI and Big Data–the best of both worlds!](https://dennyglee.com/2012/03/01/bi-and-big-datathe-best-of-both-worlds/) | 
 | 2012/02/17 | Hadoop, JS |  | [Hadoop JavaScript– Microsoft’s VB shift for Big Data](https://dennyglee.com/2012/02/17/hadoop-javascript-microsofts-vb-shift-for-big-data/) | 
 | 2012/01/31 | big data |  | [Moving data to compute or compute to data? That is the Big Data question](https://dennyglee.com/2012/01/31/moving-data-to-compute-or-compute-to-data-that-is-the-big-data-question/) | 
